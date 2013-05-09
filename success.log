@@ -1,0 +1,49 @@
+   INFO 89930 2013-05-09T16:35:18.022760+12:00 thread[main] running
+  DEBUG 89930 2013-05-09T16:35:18.023098+12:00 celluloid-thread[3fd9d8ccaf00] Scatterer[3fd9d8cc3d68] Celluloid::TaskFiber[3fd9d8d1bc98](call) starting work: timeout=6 lower_bound=3
+  DEBUG 89930 2013-05-09T16:35:18.023471+12:00 celluloid-thread[3fd9d8c92efc] Worker[3fd9d9052e48] Celluloid::TaskFiber[3fd9d8d27688](call) 0: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.024034+12:00 celluloid-thread[3fd9d8cb7e64] Worker[3fd9d8c9f5a8] Celluloid::TaskFiber[3fd9d8d4b754](call) 1: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.024252+12:00 celluloid-thread[3fd9d8cdad60] Worker[3fd9d8cca8e8] Celluloid::TaskFiber[3fd9d8d53c10](call) 2: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.024589+12:00 celluloid-thread[3fd9d8cfa520] Worker[3fd9d8cf3270] Celluloid::TaskFiber[3fd9d8d57c70](call) 3: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.024811+12:00 celluloid-thread[3fd9d8d1b84c] Worker[3fd9d8d1be3c] Celluloid::TaskFiber[3fd9d8d56f8c](call) 4: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.025144+12:00 celluloid-thread[3fd9d8d1e09c] Worker[3fd9d8d1e3d0] Celluloid::TaskFiber[3fd9d8d5bd48](call) 5: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.025343+12:00 celluloid-thread[3fd9d8d378bc] Worker[3fd9d8d2f1f8] Celluloid::TaskFiber[3fd9d8d5a8d0](call) 6: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.025667+12:00 celluloid-thread[3fd9d9032c24] Worker[3fd9d90195a8] Celluloid::TaskFiber[3fd9d902bc94](call) 7: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.025879+12:00 celluloid-thread[3fd9d8c82660] Worker[3fd9d9066b14] Celluloid::TaskFiber[3fd9d902a538](call) 8: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.039697+12:00 celluloid-thread[3fd9d8c8facc] Worker[3fd9d8c8aeb4] Celluloid::TaskFiber[3fd9d8c386f0](call) 9: sleeping
+  DEBUG 89930 2013-05-09T16:35:18.041020+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8d1666c](call) waiting for #<Celluloid::Future:0x007fb3b1a46ca0>
+  DEBUG 89930 2013-05-09T16:35:18.041809+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8d4efa8](call) waiting for #<Celluloid::Future:0x007fb3b1a45648>
+  DEBUG 89930 2013-05-09T16:35:18.041983+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8d52b30](call) waiting for #<Celluloid::Future:0x007fb3b1a97588>
+  DEBUG 89930 2013-05-09T16:35:18.042144+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8d56d84](call) waiting for #<Celluloid::Future:0x007fb3b1aa7b40>
+  DEBUG 89930 2013-05-09T16:35:18.042313+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8d5bac8](call) waiting for #<Celluloid::Future:0x007fb3b1aaeb98>
+  DEBUG 89930 2013-05-09T16:35:18.042484+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d9023490](call) waiting for #<Celluloid::Future:0x007fb3b1aae288>
+  DEBUG 89930 2013-05-09T16:35:18.042645+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d902af60](call) waiting for #<Celluloid::Future:0x007fb3b1ab7d10>
+  DEBUG 89930 2013-05-09T16:35:18.042813+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d902c694](call) waiting for #<Celluloid::Future:0x007fb3b1ab5a38>
+  DEBUG 89930 2013-05-09T16:35:18.042983+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d90709d4](call) waiting for #<Celluloid::Future:0x007fb3b2057b80>
+  DEBUG 89930 2013-05-09T16:35:18.043152+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d90758d0](call) waiting for #<Celluloid::Future:0x007fb3b2055308>
+  DEBUG 89930 2013-05-09T16:35:21.027437+12:00 celluloid-thread[3fd9d8d1b84c] Worker[3fd9d8d1be3c] Celluloid::TaskFiber[3fd9d8d56f8c](call) 4: slept
+  DEBUG 89930 2013-05-09T16:35:21.028729+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8d5bac8](call) got result for #<Celluloid::Future:0x007fb3b1aaeb98>: "result from 4"
+  DEBUG 89930 2013-05-09T16:35:21.029243+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) condition returned: #<Celluloid::Future:0x007fb3b1aaeb98>
+  DEBUG 89930 2013-05-09T16:35:21.029424+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) future resolved: #<Celluloid::Future:0x007fb3b1aaeb98>: "result from 4"
+  DEBUG 89930 2013-05-09T16:35:22.041998+12:00 celluloid-thread[3fd9d9032c24] Worker[3fd9d90195a8] Celluloid::TaskFiber[3fd9d902bc94](call) 7: slept
+  DEBUG 89930 2013-05-09T16:35:22.043115+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d902c694](call) got result for #<Celluloid::Future:0x007fb3b1ab5a38>: "result from 7"
+  DEBUG 89930 2013-05-09T16:35:22.043690+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) condition returned: #<Celluloid::Future:0x007fb3b1ab5a38>
+  DEBUG 89930 2013-05-09T16:35:22.043867+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) future resolved: #<Celluloid::Future:0x007fb3b1ab5a38>: "result from 7"
+  DEBUG 89930 2013-05-09T16:35:23.042610+12:00 celluloid-thread[3fd9d8c82660] Worker[3fd9d9066b14] Celluloid::TaskFiber[3fd9d902a538](call) 8: slept
+  DEBUG 89930 2013-05-09T16:35:23.043903+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d90709d4](call) got result for #<Celluloid::Future:0x007fb3b2057b80>: "result from 8"
+  DEBUG 89930 2013-05-09T16:35:23.044361+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) condition returned: #<Celluloid::Future:0x007fb3b2057b80>
+  DEBUG 89930 2013-05-09T16:35:23.044537+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) future resolved: #<Celluloid::Future:0x007fb3b2057b80>: "result from 8"
+  DEBUG 89930 2013-05-09T16:35:24.026323+12:00 celluloid-thread[3fd9d8cdad60] Worker[3fd9d8cca8e8] Celluloid::TaskFiber[3fd9d8d53c10](call) 2: slept
+  DEBUG 89930 2013-05-09T16:35:24.027416+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8d52b30](call) got result for #<Celluloid::Future:0x007fb3b1a97588>: "result from 2"
+  DEBUG 89930 2013-05-09T16:35:24.027848+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) condition returned: #<Celluloid::Future:0x007fb3b1a97588>
+  DEBUG 89930 2013-05-09T16:35:24.027991+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) future resolved: #<Celluloid::Future:0x007fb3b1a97588>: "result from 2"
+  DEBUG 89930 2013-05-09T16:35:24.041348+12:00 celluloid-thread[3fd9d8d1e09c] Worker[3fd9d8d1e3d0] Celluloid::TaskFiber[3fd9d8d5bd48](call) 5: slept
+  DEBUG 89930 2013-05-09T16:35:24.042642+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d9023490](call) got result for #<Celluloid::Future:0x007fb3b1aae288>: "result from 5"
+  DEBUG 89930 2013-05-09T16:35:24.043052+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) condition returned: #<Celluloid::Future:0x007fb3b1aae288>
+  DEBUG 89930 2013-05-09T16:35:24.043242+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) future resolved: #<Celluloid::Future:0x007fb3b1aae288>: "result from 5"
+  DEBUG 89930 2013-05-09T16:35:24.043687+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8d6e2e0](timer) timeout reached!
+  DEBUG 89930 2013-05-09T16:35:24.043838+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8d6e2e0](timer) reached lower bound
+  DEBUG 89930 2013-05-09T16:35:24.044651+12:00 celluloid-thread[3fd9d9071bcc] Gatherer[3fd9d902c018] Celluloid::TaskFiber[3fd9d8ce277c](call) condition returned: #<struct Gatherer::Completion futures=[#<Celluloid::Future:0x007fb3b1aaeb98>, #<Celluloid::Future:0x007fb3b1ab5a38>, #<Celluloid::Future:0x007fb3b2057b80>, #<Celluloid::Future:0x007fb3b1a97588>, #<Celluloid::Future:0x007fb3b1aae288>]>
+   INFO 89930 2013-05-09T16:35:24.046642+12:00 thread[main] results: ["result from 4", "result from 7", "result from 8", "result from 2", "result from 5"]
+   INFO 89930 2013-05-09T16:35:24.046752+12:00 thread[main] finished
+  DEBUG 89930 2013-05-09T16:35:24.047435+12:00 thread[main] Terminating 11 actors...
+  DEBUG 89930 2013-05-09T16:35:24.049845+12:00 thread[main] Shutdown completed cleanly

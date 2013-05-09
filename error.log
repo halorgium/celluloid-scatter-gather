@@ -1,0 +1,109 @@
+   INFO 90297 2013-05-09T16:37:29.065844+12:00 thread[main] running
+  DEBUG 90297 2013-05-09T16:37:29.066253+12:00 celluloid-thread[3fe5a9483608] Scatterer[3fe5a947b00c] Celluloid::TaskFiber[3fe5a94d6f88](call) starting work: timeout=6 lower_bound=3
+  DEBUG 90297 2013-05-09T16:37:29.066703+12:00 celluloid-thread[3fe5a944ade4] Worker[3fe5a8cb64ac] Celluloid::TaskFiber[3fe5a94e38a0](call) 0: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.066884+12:00 celluloid-thread[3fe5a946e5b4] Worker[3fe5a94576e8] Celluloid::TaskFiber[3fe5a95034ac](call) 1: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.067140+12:00 celluloid-thread[3fe5a9492e14] Worker[3fe5a94821f4] Celluloid::TaskFiber[3fe5a9507034](call) 2: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.067547+12:00 celluloid-thread[3fe5a94b23cc] Worker[3fe5a94ab7fc] Celluloid::TaskFiber[3fe5a950f284](call) 3: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.067895+12:00 celluloid-thread[3fe5a94d7870] Worker[3fe5a94d7e9c] Celluloid::TaskFiber[3fe5a9513064](call) 4: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.068138+12:00 celluloid-thread[3fe5a94da05c] Worker[3fe5a94da3b8] Celluloid::TaskFiber[3fe5a95127a4](call) 5: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.068474+12:00 celluloid-thread[3fe5a94f3818] Worker[3fe5a94eb7e4] Celluloid::TaskFiber[3fe5a9516c50](call) 6: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.068829+12:00 celluloid-thread[3fe5a8c96e7c] Worker[3fe5a8c7eac0] Celluloid::TaskFiber[3fe5a9527d70](call) 7: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.069232+12:00 celluloid-thread[3fe5a9431e0c] Worker[3fe5a8cca880] Celluloid::TaskFiber[3fe5a952ad54](call) 8: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.083383+12:00 celluloid-thread[3fe5a944022c] Worker[3fe5a94411cc] Celluloid::TaskFiber[3fe5a8cc28ec](call) 9: sleeping
+  DEBUG 90297 2013-05-09T16:37:29.084165+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a94a7238](call) waiting for #<Celluloid::Future:0x007fcb529bf350>
+  DEBUG 90297 2013-05-09T16:37:29.085198+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a950bd64](call) waiting for #<Celluloid::Future:0x007fcb529be7c0>
+  DEBUG 90297 2013-05-09T16:37:29.085397+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a950ebf4](call) waiting for #<Celluloid::Future:0x007fcb529c73e8>
+  DEBUG 90297 2013-05-09T16:37:29.085596+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a9512e98](call) waiting for #<Celluloid::Future:0x007fcb52a0e9a0>
+  DEBUG 90297 2013-05-09T16:37:29.085773+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a9517c54](call) waiting for #<Celluloid::Future:0x007fcb52a1e800>
+  DEBUG 90297 2013-05-09T16:37:29.085959+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a951be08](call) waiting for #<Celluloid::Future:0x007fcb52a26460>
+  DEBUG 90297 2013-05-09T16:37:29.086140+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a95271cc](call) waiting for #<Celluloid::Future:0x007fcb52a251f0>
+  DEBUG 90297 2013-05-09T16:37:29.086332+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a952a4d0](call) waiting for #<Celluloid::Future:0x007fcb52a2e070>
+  DEBUG 90297 2013-05-09T16:37:29.086520+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a952ea44](call) waiting for #<Celluloid::Future:0x007fcb52a3ec90>
+  DEBUG 90297 2013-05-09T16:37:29.086709+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a9533a80](call) waiting for #<Celluloid::Future:0x007fcb52a4d3a8>
+  DEBUG 90297 2013-05-09T16:37:33.070328+12:00 celluloid-thread[3fe5a94d7870] Worker[3fe5a94d7e9c] Celluloid::TaskFiber[3fe5a9513064](call) 4: slept
+  DEBUG 90297 2013-05-09T16:37:33.071708+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a9517c54](call) got result for #<Celluloid::Future:0x007fcb52a1e800>: "result from 4"
+  DEBUG 90297 2013-05-09T16:37:33.072139+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a945350c](call) condition returned: #<Celluloid::Future:0x007fcb52a1e800>
+  DEBUG 90297 2013-05-09T16:37:33.072332+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a945350c](call) future resolved: #<Celluloid::Future:0x007fcb52a1e800>: "result from 4"
+  DEBUG 90297 2013-05-09T16:37:34.069439+12:00 celluloid-thread[3fe5a94b23cc] Worker[3fe5a94ab7fc] Celluloid::TaskFiber[3fe5a950f284](call) 3: slept
+  DEBUG 90297 2013-05-09T16:37:34.071107+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a9512e98](call) got result for #<Celluloid::Future:0x007fcb52a0e9a0>: "result from 3"
+  DEBUG 90297 2013-05-09T16:37:34.071895+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a945350c](call) condition returned: #<Celluloid::Future:0x007fcb52a0e9a0>
+  DEBUG 90297 2013-05-09T16:37:34.072100+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a945350c](call) future resolved: #<Celluloid::Future:0x007fcb52a0e9a0>: "result from 3"
+  DEBUG 90297 2013-05-09T16:37:35.085361+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a981675c](timer) timeout reached!
+  DEBUG 90297 2013-05-09T16:37:35.086051+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Celluloid::TaskFiber[3fe5a945350c](call) condition returned: #<Gatherer::TimeoutError: timeout reached: 6, lower bound: 3>
+  ERROR 90297 2013-05-09T16:37:35.087194+12:00 celluloid-thread[3fe5a952fc50] Gatherer[3fe5a952a020] Gatherer crashed!
+Gatherer::TimeoutError: timeout reached: 6, lower bound: 3
+	demo.rb:87:in `block in wait_for'
+	demo.rb:79:in `loop'
+	demo.rb:79:in `wait_for'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `public_send'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `dispatch'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:67:in `dispatch'
+	/Users/tim/Projects/celluloid/lib/celluloid/actor.rb:328:in `block in handle_message'
+	/Users/tim/Projects/celluloid/lib/celluloid/tasks.rb:42:in `block in initialize'
+	/Users/tim/Projects/celluloid/lib/celluloid/tasks/task_fiber.rb:9:in `block in create'
+	(celluloid):0:in `remote procedure call'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:95:in `value'
+	/Users/tim/Projects/celluloid/lib/celluloid/proxies/sync_proxy.rb:28:in `method_missing'
+	/Users/tim/Projects/celluloid/lib/celluloid/legacy.rb:14:in `method_missing'
+	demo.rb:36:in `run'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `public_send'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `dispatch'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:67:in `dispatch'
+	/Users/tim/Projects/celluloid/lib/celluloid/actor.rb:328:in `block in handle_message'
+	/Users/tim/Projects/celluloid/lib/celluloid/tasks.rb:42:in `block in initialize'
+	/Users/tim/Projects/celluloid/lib/celluloid/tasks/task_fiber.rb:9:in `block in create'
+  ERROR 90297 2013-05-09T16:37:35.088582+12:00 thread[main] timed out: ["result from 4", "result from 3"]
+  ERROR 90297 2013-05-09T16:37:35.088614+12:00 celluloid-thread[3fe5a9483608] Scatterer[3fe5a947b00c] Scatterer crashed!
+Gatherer::TimeoutError: timeout reached: 6, lower bound: 3
+	demo.rb:87:in `block in wait_for'
+	demo.rb:79:in `loop'
+	demo.rb:79:in `wait_for'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `public_send'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `dispatch'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:67:in `dispatch'
+	/Users/tim/Projects/celluloid/lib/celluloid/actor.rb:328:in `block in handle_message'
+	/Users/tim/Projects/celluloid/lib/celluloid/tasks.rb:42:in `block in initialize'
+	/Users/tim/Projects/celluloid/lib/celluloid/tasks/task_fiber.rb:9:in `block in create'
+	(celluloid):0:in `remote procedure call'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:95:in `value'
+	/Users/tim/Projects/celluloid/lib/celluloid/proxies/sync_proxy.rb:28:in `method_missing'
+	/Users/tim/Projects/celluloid/lib/celluloid/legacy.rb:14:in `method_missing'
+	demo.rb:36:in `run'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `public_send'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `dispatch'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:67:in `dispatch'
+	/Users/tim/Projects/celluloid/lib/celluloid/actor.rb:328:in `block in handle_message'
+	/Users/tim/Projects/celluloid/lib/celluloid/tasks.rb:42:in `block in initialize'
+	/Users/tim/Projects/celluloid/lib/celluloid/tasks/task_fiber.rb:9:in `block in create'
+	(celluloid):0:in `remote procedure call'
+	/Users/tim/Projects/celluloid/lib/celluloid/calls.rb:95:in `value'
+	/Users/tim/Projects/celluloid/lib/celluloid/proxies/sync_proxy.rb:28:in `method_missing'
+	/Users/tim/Projects/celluloid/lib/celluloid/legacy.rb:14:in `method_missing'
+	demo.rb:115:in `<main>'
+  DEBUG 90297 2013-05-09T16:37:35.089850+12:00 thread[main] Terminating 10 actors...
+  DEBUG 90297 2013-05-09T16:37:35.093277+12:00 thread[main] Shutdown completed cleanly
+demo.rb:87:in `block in wait_for': timeout reached: 6, lower bound: 3 (Gatherer::TimeoutError)
+	from demo.rb:79:in `loop'
+	from demo.rb:79:in `wait_for'
+	from /Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `public_send'
+	from /Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `dispatch'
+	from /Users/tim/Projects/celluloid/lib/celluloid/calls.rb:67:in `dispatch'
+	from /Users/tim/Projects/celluloid/lib/celluloid/actor.rb:328:in `block in handle_message'
+	from /Users/tim/Projects/celluloid/lib/celluloid/tasks.rb:42:in `block in initialize'
+	from /Users/tim/Projects/celluloid/lib/celluloid/tasks/task_fiber.rb:9:in `block in create'
+	from (celluloid):0:in `remote procedure call'
+	from /Users/tim/Projects/celluloid/lib/celluloid/calls.rb:95:in `value'
+	from /Users/tim/Projects/celluloid/lib/celluloid/proxies/sync_proxy.rb:28:in `method_missing'
+	from /Users/tim/Projects/celluloid/lib/celluloid/legacy.rb:14:in `method_missing'
+	from demo.rb:36:in `run'
+	from /Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `public_send'
+	from /Users/tim/Projects/celluloid/lib/celluloid/calls.rb:25:in `dispatch'
+	from /Users/tim/Projects/celluloid/lib/celluloid/calls.rb:67:in `dispatch'
+	from /Users/tim/Projects/celluloid/lib/celluloid/actor.rb:328:in `block in handle_message'
+	from /Users/tim/Projects/celluloid/lib/celluloid/tasks.rb:42:in `block in initialize'
+	from /Users/tim/Projects/celluloid/lib/celluloid/tasks/task_fiber.rb:9:in `block in create'
+	from (celluloid):0:in `remote procedure call'
+	from /Users/tim/Projects/celluloid/lib/celluloid/calls.rb:95:in `value'
+	from /Users/tim/Projects/celluloid/lib/celluloid/proxies/sync_proxy.rb:28:in `method_missing'
+	from /Users/tim/Projects/celluloid/lib/celluloid/legacy.rb:14:in `method_missing'
+	from demo.rb:115:in `<main>'
