@@ -12,6 +12,6 @@ There are two log outputs:
 
 You can run this yourself. The nicer logging is not yet on master, sorry. 
 
-```
+``` sh
 bundle
 bundle exec ruby demo.rb
